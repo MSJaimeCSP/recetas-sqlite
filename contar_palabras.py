@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Recoge una frase por teclado y usa un bucle y un diccionario
 para contar cuántas veces aparece cada palabra.
@@ -15,3 +16,22 @@ for palabra in lista_palabras:
     palabras[palabra] += 1
 
 print(palabras)
+=======
+"""
+Recoge una frase por teclado y usa un bucle y un diccionario
+para contar cuántas veces aparece cada palabra.
+Imprime el diccionario resultante.
+"""
+
+frase = input("Introduce una frase: ")
+
+palabras = {}
+
+lista_palabras = frase.split(" ")
+
+for palabra in lista_palabras:
+    palabras.setdefault(palabra, 0)
+    palabras[palabra] += 1
+
+print(palabras)
+>>>>>>> 397adb68688532421a2e8f8a65020ab824a998c1
