@@ -1,0 +1,17 @@
+Terá que cumprir/conter os seguintes apartados:
+
+Usar "scaffolding" con "pyscaffold" para ter unha estrutura de ficheiros "estándar". -> listo
+Utilización de clases e obxectos (obvio). -> lsito
+Atributos públicos e privados.  ->  listo
+Herdanza (no caso de que sexa posible, se resulta moi enreversado non é necesario incluíla).  
+Métodos de clase/estáticos. --> listo
+Dunder methods.  --> listo
+Clases Abstractas ou Interfaces (no caso de que sexa posible, se resulta moi enreversado non é necesario incluíla).
+Algunha excepción como clase.
+A estrutura do programa terá que ser a vista no apartado correspondente dos contidos. O nome do proxecto deberá ser: "recetas".
+
+Inclúe os diagramas da unidade anterior nun ficheiro jpg (aínda que xa o fixeras na unidade anterior).
+
+Terás que subir todo o proxecto a un novo directorio ("recetas") dentro do noso repositorio creado no módulo anterior: ...CSP...
+
+Sube un ficheiro PDF cun resumo das especificacións (é dicir, de onde partes, que querías que fixera a túa aplicación), do que fixeches (brevemente) e unha ligazón ao teu repositorio co seguinte nomeado:
